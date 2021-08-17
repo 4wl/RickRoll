@@ -7,6 +7,3 @@ Like:
   @EventHandler
     public void postInit(FMLPostInitializationEvent event) {
         }
-       
- 
-
