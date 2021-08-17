@@ -5,6 +5,6 @@ Like:
 
   @EventHandler
     public void postInit(FMLPostInitializationEvent event) {
-
         }
+    
   and you can do by yourself.
