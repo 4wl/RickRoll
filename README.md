@@ -2,6 +2,7 @@
 You can put it in anywhere if you want.
 If you want open a mod then open the URL, you can put in.
 And you can do by yourself.
+Or in opening gui.
 Like:
 ```java
   @EventHandler
